@@ -1,0 +1,1 @@
+Para executar esse código o arquivo search.py deve ser executado!
